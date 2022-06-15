@@ -39,6 +39,6 @@ class CalculatorTest {
         int result = calc.multiply(a, b);
 
         // assert
-        assertEquals(0, result);
+        assertEquals(6, result);
     }
 }
